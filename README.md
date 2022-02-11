@@ -1,3 +1,3 @@
 ### Simon Game
 
-[link](https://nyyu.github.io/simonGame/)
+- [link](https://nyyu.github.io/simonGame/)
