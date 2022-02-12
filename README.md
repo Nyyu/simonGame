@@ -4,6 +4,12 @@
 
 - [Preview](#preview) 
 
+```markdown 
+
+ - A simple version of the game, it has some improvements that could be made but it feels decent?
+  
+```
+
 ## Preview
 
 - Game: [link](https://nyyu.github.io/simonGame/)
