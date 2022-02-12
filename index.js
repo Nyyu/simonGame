@@ -61,7 +61,7 @@ function btnPress(btn) {
     $(btnId).addClass("pressed");
     setTimeout(() => {
         $(btnId).removeClass("pressed");
-    }, 250);
+    }, 200);
 }
 
 function btnFlick(btn) {
