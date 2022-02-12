@@ -1,4 +1,4 @@
-# Simon Game
+# Simon Game ![Simon icon](favicon.ico)
 
 ## Table
 
@@ -7,7 +7,3 @@
 ## Preview
 
 - Game: [link](https://nyyu.github.io/simonGame/)
-
-<p align="center">
-   <img src="favicon.ico" alt="Simon icon"/>
-</p>
