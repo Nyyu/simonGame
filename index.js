@@ -94,7 +94,7 @@ function randomNumber() {
 
 function playAudio(name) {
     audio = new Audio(`sounds/${name}.mp3`);
-    audio.volume = "0.5";
+    audio.volume = "0.09";
     audio.play();
 }
 
