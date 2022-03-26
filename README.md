@@ -8,7 +8,7 @@
 ## Summary
 
 ```markdown 
- - A simple version of the game, it has some improvements that could be made but it feels decent?
+ - A simple version of the game, it has some improvements that could be made but it feels somewhat decent.
 ```
 
 ## Preview
